@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48d25755-9f20-4404-afaf-ed5418d20988" name="Default Changelist" comment="">
+      <change afterPath="D:/Client/.idea/Client.iml" afterDir="false" />
+      <change afterPath="D:/Client/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="D:/Client/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="D:/Client/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="D:/Client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/Client/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/Client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/Client/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="D:/Client/bin/main.py" afterDir="false" />
+      <change afterPath="D:/Client/conf/settings.py" afterDir="false" />
+      <change afterPath="D:/Client/core/handler.py" afterDir="false" />
+      <change afterPath="D:/Client/core/info_collection.py" afterDir="false" />
+      <change afterPath="D:/Client/plugins/collect_windows_info.py" afterDir="false" />
+      <change afterPath="D:/DesignPatterns/.gitignore" afterDir="false" />
+      <change afterPath="D:/DesignPatterns/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="D:/DesignPatterns/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/DesignPatterns/src/singleton/DoubleCheck.java" afterDir="false" />
+      <change afterPath="D:/DesignPatterns/src/singleton/EffectiveJava.java" afterDir="false" />
+      <change afterPath="D:/DesignPatterns/src/singleton/HungerLoading.java" afterDir="false" />
+      <change afterPath="D:/DesignPatterns/src/singleton/LazyLoading.java" afterDir="false" />
+      <change afterPath="D:/DesignPatterns/src/singleton/StaticInnerClass.java" afterDir="false" />
+      <change afterPath="D:/DesignPatterns/src/singleton/SynLazyLoading.java" afterDir="false" />
+      <change afterPath="D:/DjangoWeb-master/requirements.txt" afterDir="false" />
+      <change afterPath="D:/Isshe/.idea/Isshe.iml" afterDir="false" />
+      <change afterPath="D:/Isshe/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="D:/Isshe/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="D:/Isshe/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="D:/Isshe/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/Isshe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/Isshe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/Isshe/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="D:/Isshe/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="D:/MessyNotes/.gitignore" afterDir="false" />
+      <change afterPath="D:/MybatisNotes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="D:/MybatisNotes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="D:/MybatisNotes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/MybatisNotes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="D:/MybatisNotes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/MybatisNotes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="D:/MybatisNotes/MybatisNotes.iml" afterDir="false" />
+      <change afterPath="D:/MybatisNotes/mybatis_01/pom.xml" afterDir="false" />
+      <change afterPath="D:/MybatisNotes/mybatis_01/src/main/java/cn/isshe/mybatis/pojo/User.java" afterDir="false" />
+      <change afterPath="D:/MybatisNotes/mybatis_01/src/main/java/cn/isshe/mybatis/utils/MybatisUtils.java" afterDir="false" />
+      <change afterPath="D:/MybatisNotes/mybatis_01/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="D:/MybatisNotes/pom.xml" afterDir="false" />
+      <change afterPath="D:/PanFei/static/images/lo2.jpg" afterDir="false" />
+      <change afterPath="D:/PanFei/webserver/forms.py" afterDir="false" />
+      <change afterPath="D:/autoops/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="D:/develope/IOC/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/develope/IOC/src/Login.java" afterDir="false" />
+      <change afterPath="D:/develope/IOC/src/StringDemo.java" afterDir="false" />
+      <change afterPath="D:/develope/IOC/src/Student.java" afterDir="false" />
+      <change afterPath="D:/develope/IOC/src/StudentDemo.java" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/.idea/artifacts/SSM_Demo_war_exploded.xml" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/src/main/java/com/spring/controller/main.java" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/src/main/java/com/spring/dao/AdminMapper.java" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/src/main/java/com/spring/mapping/AdminMapper.xml" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/src/main/java/com/spring/pojo/Admin.java" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/src/main/java/com/spring/service/AdminService.java" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/src/main/resources/spring-mvc.xml" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/src/main/resources/spring-mybatis.xml" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/src/main/webapp/addUser.jsp" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/src/main/webapp/allUser.jsp" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/src/main/webapp/editUser.jsp" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/src/main/webapp/error.jsp" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/src/main/webapp/js/jquery-1.8.3.js" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/src/main/webapp/success.jsp" afterDir="false" />
+      <change afterPath="D:/develope/SSM_Demo/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="D:/develope/SpringMVC_SSM/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="D:/develope/SpringMVC_SSM/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/develope/blog/src/main/java/com/isshe/blog/Swagger2.java" afterDir="false" />
+      <change afterPath="D:/develope/blog/src/main/java/com/isshe/blog/generator/MybatisGenerator.java" afterDir="false" />
+      <change afterPath="D:/develope/blog/src/main/java/com/isshe/blog/util/OverIsMergeablePlugin.java" afterDir="false" />
+      <change afterPath="D:/develope/blog/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="D:/develope/blog/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="D:/develope/blog/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="D:/develope/springboot1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="D:/develope/springboot1/src/main/java/com/isshe/Application.java" afterDir="false" />
+      <change afterPath="D:/develope/springboot1/src/main/java/com/isshe/controller/IndexHandler.java" afterDir="false" />
+      <change afterPath="D:/develope/springboot1/src/main/java/com/isshe/controller/StudentHandler.java" afterDir="false" />
+      <change afterPath="D:/develope/springboot1/src/main/java/com/isshe/entity/Student.java" afterDir="false" />
+      <change afterPath="D:/develope/springboot1/src/main/java/com/isshe/impl/StudentRepositoryImpl.java" afterDir="false" />
+      <change afterPath="D:/develope/springboot1/src/main/java/com/isshe/repository/StudentRepository.java" afterDir="false" />
+      <change afterPath="D:/develope/springboot1/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="D:/develope/springboot1/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="D:/develope/springboot2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="D:/develope/springboot2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/develope/springboot2/src/main/java/com/isshe/Application.java" afterDir="false" />
+      <change afterPath="D:/develope/springboot2/src/main/java/com/isshe/controller/HelloHandler.java" afterDir="false" />
+      <change afterPath="D:/develope/springboot2/src/main/java/com/isshe/entity/Student.java" afterDir="false" />
+      <change afterPath="D:/develope/springboot2/src/main/java/com/isshe/repository/StudentRepository.java" afterDir="false" />
+      <change afterPath="D:/develope/springboot2/src/main/java/com/isshe/repository/impl/StudentRepositoryImpl.java" afterDir="false" />
+      <change afterPath="D:/develope/springboot2/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="D:/develope/springboot2/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="D:/develope/springboot2/src/main/webapp/save.jsp" afterDir="false" />
+      <change afterPath="D:/develope/springboot2/src/main/webapp/update.jsp" afterDir="false" />
+      <change afterPath="D:/develope/wj/src/main/java/com/isshe/wj/controller/LoginController.java" afterDir="false" />
+      <change afterPath="D:/develope/wj/src/main/java/com/isshe/wj/pojo/User.java" afterDir="false" />
+      <change afterPath="D:/develope/wj/src/main/java/com/isshe/wj/result/Result.java" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/.idea/isshe.iml" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/__init__.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/cabinet/filter.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/cabinet/router.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/cabinet/serializers.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/groups/common.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/groups/filters.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/groups/router.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/groups/serializers.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/idcs/filter.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/idcs/router.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/idcs/serializers.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/manufacturers/filter.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/manufacturers/router.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/manufacturers/serializers.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/menu/common.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/menu/router.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/menu/serializers.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/permissions/common.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/permissions/filter.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/permissions/router.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/permissions/serializers.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/products/filter.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/products/router.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/products/serializers.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/servers/filter.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/servers/router.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/servers/serializers.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/users/common.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/users/filters.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/users/router.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/users/serializers.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/zabbix/api_wrapper.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/zabbix/exceptions.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/apps/zabbix/router.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/isshe/paginations.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/isshe/permissions.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/scripts/__init__.py" afterDir="false" />
+      <change afterPath="D:/graduation_project/isshe/scripts/import_menu.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/__init__.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/cabinet/filter.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/cabinet/router.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/cabinet/serializers.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/groups/common.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/groups/filter.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/groups/router.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/groups/serializers.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/hardware/filter.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/hardware/router.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/hardware/serializers.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/idcs/__init__.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/idcs/admin.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/idcs/apps.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/idcs/filter.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/idcs/migrations/__init__.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/idcs/models.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/idcs/router.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/idcs/serializers.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/idcs/tests.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/idcs/views.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/menu/common.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/menu/router.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/menu/serializers.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/permissions/common.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/permissions/filter.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/permissions/router.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/permissions/serializers.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/servers/collect.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/servers/filter.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/servers/remote.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/servers/router.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/servers/serializers.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/users/common.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/users/filter.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/users/router.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/users/serializers.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/zabbix/api_wrapper.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/zabbix/common.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/zabbix/exceptions.py" afterDir="false" />
+      <change afterPath="D:/isshe/apps/zabbix/router.py" afterDir="false" />
+      <change afterPath="D:/isshe/isshe/paginations.py" afterDir="false" />
+      <change afterPath="D:/isshe/isshe/permissions.py" afterDir="false" />
+      <change afterPath="D:/isshe/scripts/import_menu.py" afterDir="false" />
+      <change afterPath="D:/java_api/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/java_api/src/LinkedListUsage/LinkedListUsage.java" afterDir="false" />
+      <change afterPath="D:/messy/.gitignore" afterDir="false" />
+      <change afterPath="D:/messy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="D:/messy/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="D:/messy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/messy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/messy/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="D:/messy/pom.xml" afterDir="false" />
+      <change afterPath="D:/panfei/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="D:/panfei/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="D:/panfei/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/panfei/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/css/base.css" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/css/changelists.css" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/css/dashboard.css" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/css/fonts.css" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/css/forms.css" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/css/login.css" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/css/rtl.css" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/css/widgets.css" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/fonts/LICENSE.txt" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/fonts/README.txt" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/fonts/Roboto-Bold-webfont.woff" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/fonts/Roboto-Light-webfont.woff" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/fonts/Roboto-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/img/LICENSE" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/img/README.txt" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/img/calendar-icons.svg" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/img/gis/move_vertex_off.svg" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/img/gis/move_vertex_on.svg" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/img/icon-addlink.svg" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/img/icon-alert.svg" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/img/icon-calendar.svg" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/img/icon-changelink.svg" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/img/icon-clock.svg" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/img/icon-deletelink.svg" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/img/icon-no.svg" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/img/icon-unknown-alt.svg" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/img/icon-unknown.svg" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/img/icon-yes.svg" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/img/inline-delete.svg" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/img/search.svg" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/img/selector-icons.svg" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/img/sorting-icons.svg" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/img/tooltag-add.svg" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/img/tooltag-arrowright.svg" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/SelectBox.js" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/SelectFilter2.js" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/actions.js" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/actions.min.js" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/admin/DateTimeShortcuts.js" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/admin/RelatedObjectLookups.js" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/calendar.js" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/collapse.js" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/collapse.min.js" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/core.js" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/inlines.js" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/inlines.min.js" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/jquery.init.js" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/prepopulate.js" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/prepopulate.min.js" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/timeparse.js" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/urlify.js" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/vendor/jquery/LICENSE-JQUERY.txt" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/vendor/xregexp/xregexp.js" afterDir="false" />
+      <change afterPath="D:/panfei/panfei/static/admin/js/vendor/xregexp/xregexp.min.js" afterDir="false" />
+      <change afterPath="D:/panfei/static/css/adstyle.css" afterDir="false" />
+      <change afterPath="D:/panfei/static/css/alert.css" afterDir="false" />
+      <change afterPath="D:/panfei/static/css/bootstrap/bootstrap-table.css" afterDir="false" />
+      <change afterPath="D:/panfei/static/css/bootstrap/bootstrap-table.min.css" afterDir="false" />
+      <change afterPath="D:/panfei/static/css/bootstrap/bootstrap.css" afterDir="false" />
+      <change afterPath="D:/panfei/static/css/bootstrap/bootstrap.min.css" afterDir="false" />
+      <change afterPath="D:/panfei/static/css/code/prism.css" afterDir="false" />
+      <change afterPath="D:/panfei/static/css/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="D:/panfei/static/css/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="D:/panfei/static/css/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="D:/panfei/static/css/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="D:/panfei/static/css/menu.css" afterDir="false" />
+      <change afterPath="D:/panfei/static/css/menustyle.css" afterDir="false" />
+      <change afterPath="D:/panfei/static/css/public.css" afterDir="false" />
+      <change afterPath="D:/panfei/static/css/userstyle.css" afterDir="false" />
+      <change afterPath="D:/panfei/static/images/404.png" afterDir="false" />
+      <change afterPath="D:/panfei/static/images/back.jpg" afterDir="false" />
+      <change afterPath="D:/panfei/static/images/lo.jpg" afterDir="false" />
+      <change afterPath="D:/panfei/static/img/banshidating.png" afterDir="false" />
+      <change afterPath="D:/panfei/static/img/gh-icons.png" afterDir="false" />
+      <change afterPath="D:/panfei/static/img/shouqicaidan.png" afterDir="false" />
+      <change afterPath="D:/panfei/static/img/xiala.png" afterDir="false" />
+      <change afterPath="D:/panfei/static/js/alert.js" afterDir="false" />
+      <change afterPath="D:/panfei/static/js/alert.min.js" afterDir="false" />
+      <change afterPath="D:/panfei/static/js/bootstrap/bootstrap-table-editable.js" afterDir="false" />
+      <change afterPath="D:/panfei/static/js/bootstrap/bootstrap-table-editable.min.js" afterDir="false" />
+      <change afterPath="D:/panfei/static/js/bootstrap/bootstrap-table-locale-all.js" afterDir="false" />
+      <change afterPath="D:/panfei/static/js/bootstrap/bootstrap-table-locale-all.min.js" afterDir="false" />
+      <change afterPath="D:/panfei/static/js/bootstrap/bootstrap-table-zh-CN.js" afterDir="false" />
+      <change afterPath="D:/panfei/static/js/bootstrap/bootstrap-table-zh-CN.min.js" afterDir="false" />
+      <change afterPath="D:/panfei/static/js/bootstrap/bootstrap-table.js" afterDir="false" />
+      <change afterPath="D:/panfei/static/js/bootstrap/bootstrap-table.min.js" afterDir="false" />
+      <change afterPath="D:/panfei/static/js/bootstrap/bootstrap.js" afterDir="false" />
+      <change afterPath="D:/panfei/static/js/bootstrap/bootstrap.min.js" afterDir="false" />
+      <change afterPath="D:/panfei/static/js/bootstrap/jquery-1.8.3.min.js" afterDir="false" />
+      <change afterPath="D:/panfei/static/js/bootstrap/jquery.min.js" afterDir="false" />
+      <change afterPath="D:/panfei/static/js/code/prism.js" afterDir="false" />
+      <change afterPath="D:/panfei/static/js/echarts.js" afterDir="false" />
+      <change afterPath="D:/panfei/static/js/jquery-1.11.0.min.js" afterDir="false" />
+      <change afterPath="D:/panfei/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="D:/panfei/static/js/menu.js" afterDir="false" />
+      <change afterPath="D:/panfei/webserver/templates/404.html" afterDir="false" />
+      <change afterPath="D:/panfei/webserver/templates/header.html" afterDir="false" />
+      <change afterPath="D:/panfei/webserver/templates/index.html" afterDir="false" />
+      <change afterPath="D:/panfei/webserver/templates/login.html" afterDir="false" />
+      <change afterPath="D:/panfei/webserver/templates/menu.html" afterDir="false" />
+      <change afterPath="D:/panfei/webserver/templates/nowtime.html" afterDir="false" />
+      <change afterPath="D:/panfei/webserver/templates/serveradd.html" afterDir="false" />
+      <change afterPath="D:/panfei/webserver/templates/serverlist.html" afterDir="false" />
+      <change afterPath="D:/panfei/webserver/urls.py" afterDir="false" />
+      <change afterPath="D:/untitled/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="D:/untitled/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="D:/untitled/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="D:/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="D:/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="D:/untitled/Client/bin/main.py" afterDir="false" />
+      <change afterPath="D:/untitled/Client/conf/settings.py" afterDir="false" />
+      <change afterPath="D:/untitled/Client/core/handler.py" afterDir="false" />
+      <change afterPath="D:/untitled/Client/core/info_collection.py" afterDir="false" />
+      <change afterPath="D:/untitled/Client/plugins/collect_linux_info.py" afterDir="false" />
+      <change afterPath="D:/untitled/Client/plugins/collect_windows_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/helloservlet/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/helloservlet/src/main/java/cn/cjlin/servlet/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/thread/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/thread/src/main/java/ThreadDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javaweb/thread/src/main/java/ThreadRunable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soms/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soms/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soms/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_demo/.idea/artifacts/ssm_demo_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_demo/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_demo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_demo/src/main/java/cn/cjl/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_demo/src/main/java/cn/cjl/dao/BookMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_demo/src/main/java/cn/cjl/dao/BookMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_demo/src/main/java/cn/cjl/pojo/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_demo/src/main/java/cn/cjl/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_demo/src/main/java/cn/cjl/service/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_demo/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_demo/src/main/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_demo/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_demo/src/main/resources/spring-dao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_demo/src/main/resources/spring-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_demo/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_demo/web/jsp/addBook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_demo/web/jsp/allBook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ssm_demo/web/jsp/updateBook.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/java/com/cjlin/wj/config/MyWebConfigurer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/java/com/cjlin/wj/controller/LibraryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/java/com/cjlin/wj/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/java/com/cjlin/wj/dao/BookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/java/com/cjlin/wj/dao/CategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/java/com/cjlin/wj/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/java/com/cjlin/wj/interceptor/LoginInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/java/com/cjlin/wj/pojo/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/java/com/cjlin/wj/pojo/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/java/com/cjlin/wj/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/java/com/cjlin/wj/result/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/java/com/cjlin/wj/service/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/java/com/cjlin/wj/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/java/com/cjlin/wj/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/resources/static/static/css/app.78dbfd54b399b7892c11bc7538d15719.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/resources/static/static/css/app.78dbfd54b399b7892c11bc7538d15719.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/resources/static/static/fonts/element-icons.535877f.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/resources/static/static/fonts/element-icons.732389d.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/resources/static/static/img/eva.6ac84da.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/resources/static/static/js/app.4a64446de44ae47517ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/resources/static/static/js/app.4a64446de44ae47517ca.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/resources/static/static/js/manifest.2ae2e69a05c33dfc65f8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/resources/static/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/resources/static/static/js/vendor.6d388d31270eaab006d9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wj/src/main/resources/static/static/js/vendor.6d388d31270eaab006d9.js.map" afterDir="false" />
+      <change afterPath="D:/work/wj-vue/src/components/Login.vue" afterDir="false" />
+      <change afterPath="D:/work/wj-vue/src/components/home/AppIndex.vue" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="14" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.m2/repository/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.2.0/org.eclipse.paho.client.mqttv3-1.2.0.jar!/org/eclipse/paho/client/mqttv3/MqttClient.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="69" column="45" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Demo2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Demo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1997" />
+    <option name="y" value="115" />
+    <option name="width" value="1322" />
+    <option name="height" value="925" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mqtt_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mqtt_client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mqtt_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mqtt_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mqtt_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mqtt_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mqtt_client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mqtt_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587227295948" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="mqtt_client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48d25755-9f20-4404-afaf-ed5418d20988" name="Default Changelist" comment="" />
+      <created>1587213388161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587213388161</updated>
+      <workItem from="1587213392974" duration="10829000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10829000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16791044" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" weight="0.32939914" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28004292" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="LuaJ" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="5" selection-start-line="5" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.2.0/org.eclipse.paho.client.mqttv3-1.2.0.jar!/org/eclipse/paho/client/mqttv3/MqttClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="69" column="45" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android API 26 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
